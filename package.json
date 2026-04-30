@@ -1,0 +1,13 @@
+{
+  "name": "project-management-system",
+  "version": "1.0.0",
+  "description": "Full-Stack Project Management System with RBAC",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm start",
+    "build:frontend": "cd frontend && npm run build",
+    "start:backend": "cd backend && npm start"
+  },
+  "keywords": ["project-management", "rbac", "jwt", "react", "nodejs", "mongodb"]
+}
