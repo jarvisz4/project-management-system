@@ -126,7 +126,7 @@ node server.js
 Environment Variables:
 PORT=5000
 MONGO_URI=https://github.com/jarvisz4/project-management-system.git
-CLIENT_URL=https://your-frontend-url.railway.app
+CLIENT_URL=https://just-optimism-production-1260.up.railway.app
 NODE_ENV=production
 
 Deploy and copy the backend URL.
@@ -151,7 +151,7 @@ npx serve -s build -p 3000
 
 Environment Variables:
 
-REACT_APP_API_URL=https://your-backend-url.railway.app/api
+REACT_APP_API_URL=https://efficient-strength-production-03fc.up.railway.app/api
 
 Deploy and copy the frontend URL.
 
@@ -159,14 +159,14 @@ Final Step
 
 Update backend environment variable:
 
-CLIENT_URL=https://your-frontend-url.railway.app
+CLIENT_URL=https://just-optimism-production-1260.up.railway.app
 
 Redeploy backend.
 
 Live Demo
 
-Frontend: https://your-frontend-url
-Backend: https://your-backend-url
+Frontend: https://just-optimism-production-1260.up.railway.app
+Backend: https://efficient-strength-production-03fc.up.railway.app
 
 Demo Credentials
 
